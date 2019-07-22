@@ -1,6 +1,6 @@
 // // Take the commented ES5 syntax and convert it to ES6 arrow Syntax
 
-// let myFunction = () => console.log("Function was invoked!");
+let myFunction = () => console.log("Function was invoked!");
 
 // myFunction();
 
